@@ -29,3 +29,8 @@ To run a simulation, open the corresponding MATLAB script and ensure all files i
 1. Run the simulation scripts inside `Lap time Simulation (gearbox)` to generate results.
 2. Use the scripts in `plots` to reproduce convergence studies and comparison figures.
 3. Refer to the subfolders in `plots` for pre-generated results of the ideal configurations.
+
+## License
+
+This project is protected under a custom license.
+See the LICENSE file for details.
